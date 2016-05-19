@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/manager
+END
+ImpactManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/manager/ImpactManager.java
+END
+TimeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/manager/TimeManager.java
+END
+ImpactManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/manager/ImpactManagerImpl.java
+END
+TimeManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/manager/TimeManagerImpl.java
+END
+GravityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/manager/GravityManager.java
+END
+GravityManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/manager/GravityManagerImpl.java
+END

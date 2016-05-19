@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/145/trunk/braveheart/src/fr/game/engine/fighter
+END
+Attack.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/143/trunk/braveheart/src/fr/game/engine/fighter/Attack.java
+END
+Fighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/143/trunk/braveheart/src/fr/game/engine/fighter/Fighter.java
+END
+Army.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/140/trunk/braveheart/src/fr/game/engine/fighter/Army.java
+END
+Weapon.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/131/trunk/braveheart/src/fr/game/engine/fighter/Weapon.java
+END
+Movement.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/141/trunk/braveheart/src/fr/game/engine/fighter/Movement.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/141/trunk/braveheart/src/fr/game/engine/fighter/Action.java
+END
+AttackDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/143/trunk/braveheart/src/fr/game/engine/fighter/AttackDescriptor.java
+END

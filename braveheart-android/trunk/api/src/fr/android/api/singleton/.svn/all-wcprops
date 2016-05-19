@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/singleton
+END
+SaverLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/61/trunk/api/src/fr/android/api/singleton/SaverLoader.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/101/trunk/api/src/fr/android/api/singleton/Factory.java
+END
+EventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/90/trunk/api/src/fr/android/api/singleton/EventManager.java
+END
+SingletonManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/90/trunk/api/src/fr/android/api/singleton/SingletonManager.java
+END
+Accessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/67/trunk/api/src/fr/android/api/singleton/Accessor.java
+END
+ClassParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/61/trunk/api/src/fr/android/api/singleton/ClassParser.java
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/61/trunk/api/src/fr/android/api/singleton/Formatter.java
+END
+Disposable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/90/trunk/api/src/fr/android/api/singleton/Disposable.java
+END

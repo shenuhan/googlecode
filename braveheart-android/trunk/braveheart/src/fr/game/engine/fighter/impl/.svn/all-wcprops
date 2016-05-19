@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/145/trunk/braveheart/src/fr/game/engine/fighter/impl
+END
+ActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/141/trunk/braveheart/src/fr/game/engine/fighter/impl/ActionImpl.java
+END
+AttackDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/143/trunk/braveheart/src/fr/game/engine/fighter/impl/AttackDescriptorImpl.java
+END
+AttackImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/trunk/braveheart/src/fr/game/engine/fighter/impl/AttackImpl.java
+END
+FighterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/145/trunk/braveheart/src/fr/game/engine/fighter/impl/FighterImpl.java
+END
+ArmyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/140/trunk/braveheart/src/fr/game/engine/fighter/impl/ArmyImpl.java
+END
+WeaponImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/131/trunk/braveheart/src/fr/game/engine/fighter/impl/WeaponImpl.java
+END
+MovementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/141/trunk/braveheart/src/fr/game/engine/fighter/impl/MovementImpl.java
+END

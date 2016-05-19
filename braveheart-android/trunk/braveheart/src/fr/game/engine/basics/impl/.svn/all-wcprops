@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130/trunk/braveheart/src/fr/game/engine/basics/impl
+END
+PointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130/trunk/braveheart/src/fr/game/engine/basics/impl/PointImpl.java
+END
+RangeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130/trunk/braveheart/src/fr/game/engine/basics/impl/RangeImpl.java
+END
+StatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130/trunk/braveheart/src/fr/game/engine/basics/impl/StatsImpl.java
+END

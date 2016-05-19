@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/150/trunk/braveheart2/src/fr/game/fight
+END
+BattleFighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/150/trunk/braveheart2/src/fr/game/fight/BattleFighter.java
+END
+AttackCapacity.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/147/trunk/braveheart2/src/fr/game/fight/AttackCapacity.java
+END
+Attack.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/149/trunk/braveheart2/src/fr/game/fight/Attack.java
+END
+DefenseCapacity.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/147/trunk/braveheart2/src/fr/game/fight/DefenseCapacity.java
+END
+Fighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/148/trunk/braveheart2/src/fr/game/fight/Fighter.java
+END
+Army.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/147/trunk/braveheart2/src/fr/game/fight/Army.java
+END
+Defense.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/149/trunk/braveheart2/src/fr/game/fight/Defense.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/147/trunk/braveheart2/src/fr/game/fight/Range.java
+END

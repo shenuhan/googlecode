@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/150/trunk/braveheart2/src/fr/game/display
+END
+EnhancedAtlas.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/147/trunk/braveheart2/src/fr/game/display/EnhancedAtlas.java
+END
+SpriteFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/150/trunk/braveheart2/src/fr/game/display/SpriteFactory.java
+END
+AnimatedSpriteAtlas.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/150/trunk/braveheart2/src/fr/game/display/AnimatedSpriteAtlas.java
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/149/trunk/braveheart2/src/fr/game/display/Animation.java
+END
+ISpriteFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/147/trunk/braveheart2/src/fr/game/display/ISpriteFactory.java
+END
+IAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/147/trunk/braveheart2/src/fr/game/display/IAnimation.java
+END

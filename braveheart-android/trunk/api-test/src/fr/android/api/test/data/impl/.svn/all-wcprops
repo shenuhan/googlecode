@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/94/trunk/api-test/src/fr/android/api/test/data/impl
+END
+ManagedSubObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/31/trunk/api-test/src/fr/android/api/test/data/impl/ManagedSubObjectImpl.java
+END
+ManagedObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/66/trunk/api-test/src/fr/android/api/test/data/impl/ManagedObjectImpl.java
+END
+EventListenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/94/trunk/api-test/src/fr/android/api/test/data/impl/EventListenerImpl.java
+END
+EventObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/90/trunk/api-test/src/fr/android/api/test/data/impl/EventObjectImpl.java
+END

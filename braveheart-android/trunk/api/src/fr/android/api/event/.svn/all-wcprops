@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/145/trunk/api/src/fr/android/api/event
+END
+Dispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/94/trunk/api/src/fr/android/api/event/Dispatcher.java
+END
+EventProcessorComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/event/EventProcessorComparator.java
+END
+MediumProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/145/trunk/api/src/fr/android/api/event/MediumProcessor.java
+END
+EventProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/94/trunk/api/src/fr/android/api/event/EventProcessor.java
+END
+AgregateEventProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/94/trunk/api/src/fr/android/api/event/AgregateEventProcessor.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/event/Event.java
+END

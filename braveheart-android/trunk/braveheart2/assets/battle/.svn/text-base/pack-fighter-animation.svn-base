@@ -1,0 +1,131 @@
+Warrior
+	Idle
+		Down
+			sprite : Warrior 
+			keyFrames : 1
+		Left
+			sprite : Warrior 
+			keyFrames : 4
+		Right
+			sprite : Warrior 
+			keyFrames : 7
+		Up
+			sprite : Warrior 
+			keyFrames : 10
+	Attack
+		Down
+			sprite : Warrior 
+			keyFrames : 1
+		Left
+			sprite : Warrior 
+			keyFrames : 4
+		Right
+			sprite : Warrior 
+			keyFrames : 7
+		Up
+			sprite : Warrior 
+			keyFrames : 10
+	MagicAttack
+		--> Attack	
+	Walk
+		Down 
+			sprite : Warrior 
+			keyFrames : 0,2
+			duration : 1,1
+		Left
+			sprite : Warrior 
+			keyFrames : 3,5
+			duration : 1,1
+		Right
+			sprite : Warrior 
+			keyFrames : 6,8
+			duration : 1,1
+		Up
+			sprite : Warrior 
+			keyFrames : 9,11
+			duration : 1,1
+Wizzard
+	Idle
+		Down 
+			sprite : Wizzard 
+			keyFrames : 1
+		Left
+			sprite : Wizzard 
+			keyFrames : 4
+		Right
+			sprite : Wizzard 
+			keyFrames : 7
+		Up
+			sprite : Wizzard 
+			keyFrames : 10
+	Attack
+		Down 
+			sprite : Wizzard 
+			keyFrames : 1
+		Left
+			sprite : Wizzard 
+			keyFrames : 4
+		Right
+			sprite : Wizzard 
+			keyFrames : 7
+		Up
+			sprite : Wizzard 
+			keyFrames : 10
+	MagicAttack
+		--> Attack	
+	Walk
+		Down 
+			sprite : Wizzard 
+			keyFrames : 0,2
+		Left
+			sprite : Wizzard 
+			keyFrames : 3,5
+		Right
+			sprite : Wizzard 
+			keyFrames : 6,8
+		Up
+			sprite : Wizzard 
+			keyFrames : 9,11
+Orc
+	Idle
+		Down 
+			sprite : Orc 
+			keyFrames : 1
+		Left
+			sprite : Orc 
+			keyFrames : 4
+		Right
+			sprite : Orc 
+			keyFrames : 7
+		Up
+			sprite : Orc 
+			keyFrames : 10
+	Attack
+		Down 
+			sprite : Orc 
+			keyFrames : 1
+		Left
+			sprite : Orc 
+			keyFrames : 4
+		Right
+			sprite : Orc 
+			keyFrames : 7
+		Up
+			sprite : Orc 
+			keyFrames : 10
+	MagicAttack
+		--> Attack	
+	Walk
+		Down 
+			sprite : Orc 
+			keyFrames : 0,2
+		Left
+			sprite : Orc 
+			keyFrames : 3,5
+		Right
+			sprite : Orc 
+			keyFrames : 6,8
+		Up
+			sprite : Orc 
+			keyFrames : 9,11
+			

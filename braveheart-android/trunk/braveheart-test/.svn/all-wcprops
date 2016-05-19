@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/140/trunk/braveheart-test
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/123/trunk/braveheart-test/AndroidManifest.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/115/trunk/braveheart-test/build.properties
+END
+export.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/115/trunk/braveheart-test/export.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/115/trunk/braveheart-test/build.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/123/trunk/braveheart-test/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/140/trunk/braveheart-test/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/115/trunk/braveheart-test/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/117/trunk/braveheart-test/.project
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics
+END
+EntityField.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/EntityField.java
+END
+Circle.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/Circle.java
+END
+Vector.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/Vector.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/Point.java
+END
+FieldObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56/trunk/physics/src/fr/android/physics/FieldObject.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/Entity.java
+END
+Impact.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/Impact.java
+END

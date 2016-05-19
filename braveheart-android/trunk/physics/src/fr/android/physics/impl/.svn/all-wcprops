@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/impl
+END
+EntityFieldImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/impl/EntityFieldImpl.java
+END
+CircleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/impl/CircleImpl.java
+END
+VectorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/impl/VectorImpl.java
+END
+ImpactBall.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/impl/ImpactBall.java
+END
+PointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/impl/PointImpl.java
+END
+FieldObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/56/trunk/physics/src/fr/android/physics/impl/FieldObjectImpl.java
+END
+ImpactWall.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/impl/ImpactWall.java
+END
+EntityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/61/trunk/physics/src/fr/android/physics/impl/EntityImpl.java
+END

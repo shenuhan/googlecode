@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/singleton/impl
+END
+DispatcherImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/singleton/impl/DispatcherImpl.java
+END
+FactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/singleton/impl/FactoryImpl.java
+END
+SaverLoaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/65/trunk/api/src/fr/android/api/singleton/impl/SaverLoaderImpl.java
+END
+EventManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/singleton/impl/EventManagerImpl.java
+END
+SingletonManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/singleton/impl/SingletonManagerImpl.java
+END
+ClassParserAndroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/singleton/impl/ClassParserAndroid.java
+END
+AccessorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/singleton/impl/AccessorImpl.java
+END
+ClassParserJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/singleton/impl/ClassParserJava.java
+END
+FormatterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/singleton/impl/FormatterImpl.java
+END

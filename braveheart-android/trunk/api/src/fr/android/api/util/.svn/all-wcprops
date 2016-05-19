@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/util
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/util/Logger.java
+END
+LoopThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/util/LoopThread.java
+END
+ManualDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/util/ManualDispatcher.java
+END
+Synchro.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/util/Synchro.java
+END
+Chrono.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57/trunk/api/src/fr/android/api/util/Chrono.java
+END
+Notifiable.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/143/trunk/api/src/fr/android/api/util/Notifiable.java
+END

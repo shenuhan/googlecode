@@ -1,0 +1,25 @@
+Sword
+	Idle
+		Down
+			sprite : Sword 
+			keyFrames : 1
+		Left
+			sprite : Sword 
+			keyFrames : 4
+		Right
+			sprite : Sword 
+			keyFrames : 0,8
+		Up
+			sprite : Sword 
+			keyFrames : 5
+	Walk
+		--> Idle
+	MagicAttack
+		--> Idle
+	Attack
+		Left
+			sprite : Sword 
+			keyFrames : 6,7
+		Right
+			sprite : Sword 
+			keyFrames : 2,3

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/trunk/api-test/src/fr/android/api/test
+END
+EventTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/101/trunk/api-test/src/fr/android/api/test/EventTest.java
+END
+FacadeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/67/trunk/api-test/src/fr/android/api/test/FacadeTest.java
+END
+FactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/67/trunk/api-test/src/fr/android/api/test/FactoryTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16/trunk/api-test/src/fr/android/api/test/AllTests.java
+END
+ManagedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/101/trunk/api-test/src/fr/android/api/test/ManagedTest.java
+END

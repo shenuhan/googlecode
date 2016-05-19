@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders
+END
+depthtocolor.frag
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/depthtocolor.frag
+END
+flattex-frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/flattex-frag.glsl
+END
+flattex-vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/flattex-vert.glsl
+END
+shadowgen-frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/shadowgen-frag.glsl
+END
+convolution.frag
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/convolution.frag
+END
+shadowgen-vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/shadowgen-vert.glsl
+END
+batch.frag
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/batch.frag
+END
+shadowmap-frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/shadowmap-frag.glsl
+END
+batch.vert
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/batch.vert
+END
+shadowmap-vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/shadowmap-vert.glsl
+END
+default.frag
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/default.frag
+END
+default.vert
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/default.vert
+END
+flat-frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/flat-frag.glsl
+END
+flat-vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/flat-vert.glsl
+END
+projtex-frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/projtex-frag.glsl
+END
+projtex-vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/146/trunk/braveheart2/assets/data/shaders/projtex-vert.glsl
+END
